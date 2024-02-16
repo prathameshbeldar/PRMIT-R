@@ -1,0 +1,77 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+h3{
+    background-color: rgb(135, 42, 223);
+    text-align: right;
+    height: 30px;
+    padding-top: 1%;
+    padding-right: 2%;
+}
+h2{
+    padding-top: 1%;
+    text-align: center;
+    padding-bottom: 1%;
+    font-size: 40px;
+    font-family: Algerian;
+    padding-right: 6%;
+    justify-content:space-around;
+    background-color: rgb(223, 181, 181);
+}
+.log{
+    padding-top: 2%;
+    text-align: right;
+    padding-bottom: 2%;
+    padding-right: 3%;
+}
+img{
+    padding-left: 3%;
+    padding-top: 0;
+}
+a{
+   padding: 40px;
+  padding-top: 13px;
+  padding-left:70px;
+  height: 20px;
+  text-decoration: none;
+}
+main{
+    background-color: rgb(167, 167, 167);
+    height: 1000px;
+    width: 1470px;
+}
+.logo.img{
+    padding-left:22%;
+}
+h1{
+    font-size: 80px;
+    padding-left: 4%;
+    padding-top: 3%;
+
+}
+.box1{
+    display:flex;
+    padding-top: 4%;
+    border-radius: 2rem;
+}
+
+.box1 img{
+    border-radius: 5rex;
+    border-top-left-radius: 7rem;
+    box-shadow: 2cap;
+
+}
+ .box2{
+    display:flex;
+    padding-top: 1%;
+    padding-left: 50%;
+    
+    
+ }
+ .box2 img{
+    border-radius: 3rex;
+    border-top-left-radius: 7rem;
+    box-shadow: 2cap;
+ }
